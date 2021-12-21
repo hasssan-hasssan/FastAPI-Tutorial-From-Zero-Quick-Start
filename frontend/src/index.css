@@ -1,0 +1,11 @@
+* {
+  font-family: 'Roboto Mono';
+}
+
+.custom-card {
+  object-fit: contain;
+}
+
+#main {
+  min-height: 80vh;
+}
